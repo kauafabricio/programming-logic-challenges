@@ -1,3 +1,4 @@
+// PROJETO NÍVEL DO HERÓI
 // variáveis e vetores
 var heroiUm = ["Morgana_Feiticeira", 10500];
 var nivelHeroiUm = "";
